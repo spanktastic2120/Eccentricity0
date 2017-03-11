@@ -46,3 +46,8 @@ Open the `Variables.inc` file and enter values for
  - `GPUName`  (The name of your GPU as it appears in Open Hardware Monitor, ex: `NVIDIA GeForce 9800 GT`)
  
  You can now load the included layout `Eccentricity0 Default` without fear of crashing Rainmeter. 
+
+## ToDo
+- [ ] Make installation significantly more automatic
+- [ ] Add some widgets that orbit
+- [ ] Make skins interchangeable for each ring (maybe)
