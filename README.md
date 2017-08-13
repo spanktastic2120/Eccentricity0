@@ -15,7 +15,8 @@
   - You have a choice of two variants for the graphical representation: 
     - [NetArc](demo/arcdemo.gif) (The length of the arc represents the percentage of maximum up/down speed)
     - [NetSpin](demo/netspindemo.gif) (The speed of the arc represents the current maximum up/down speed)
-      - NetSpin is a lot more resource intsensive in order achieve smooth animation, beware.
+      - ~~NetSpin is a lot more resource intsensive in order achieve smooth animation, beware.~~
+      This doesnt seem to be the case with the latest Rainmeter version.
 
 ### Memory stats
 - RAM usage is displayed with the thickness of the inner ring
