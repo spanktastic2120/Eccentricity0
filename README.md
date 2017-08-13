@@ -31,7 +31,7 @@
 
 ## Installation
 ![meme](http://i.imgur.com/9f34Oxf.jpg)
-- Download and install the [.rmskin](https://github.com/spanktastic2120/Eccentricity0/raw/master/Eccentricity0_1.0.rmskin)
+- Download and install the [.rmskin](https://github.com/spanktastic2120/Eccentricity0/releases/latest)
 - Download and install [Open Hardware Monitor](http://openhardwaremonitor.org/downloads/)
 - Go to WeatherUnderground and sign up for a *free* developer [api key](https://www.wunderground.com/weather/api/d/pricing.html)
 - (Optional) Download and install [MSI Afterburner](https://www.msi.com/page/afterburner)
